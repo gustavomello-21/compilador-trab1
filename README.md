@@ -1,4 +1,4 @@
-# Compiladores 2 trabalho 1
+# Compiladores
 
 ## Código 1 (decisão)
 ```
@@ -45,15 +45,4 @@ output g 0
 3 6 d- | g+
 6 0 d- | g-
 ```
-
-## Dúvidas
-Concorrência pode ter uma decisão dentro? R: Não.
-
-Concorrência pode abrir outra concorrência? R: Não.
-
-Pode ter 3 decisões ou mais? R: Pode, mas não vamos trabalhar com isso.
-
-Vamos ter concorrência mais difícil do que os exemplos? R: Não.
-
-Uma concorrência em um ramo de decisão pode fechar no início? R: Não.
 # compilador-trab1
