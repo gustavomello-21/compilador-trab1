@@ -1,0 +1,10 @@
+version: '3.9'
+
+services:
+    compilador:
+        container_name: compilador
+        image: "golang:1.19"
+        volumes:
+            - ./:/go/src/app
+        working_dir: /go/src/app
+        tty: true
